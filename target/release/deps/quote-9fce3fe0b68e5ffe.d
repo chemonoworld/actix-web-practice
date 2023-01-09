@@ -1,0 +1,13 @@
+/home/garrett/actix-web/target/release/deps/quote-9fce3fe0b68e5ffe.rmeta: /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/garrett/actix-web/target/release/deps/libquote-9fce3fe0b68e5ffe.rlib: /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/garrett/actix-web/target/release/deps/quote-9fce3fe0b68e5ffe.d: /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs /home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs
+
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/lib.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ext.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/format.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/ident_fragment.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/to_tokens.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/runtime.rs:
+/home/garrett/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.23/src/spanned.rs:
